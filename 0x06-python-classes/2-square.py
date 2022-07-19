@@ -1,14 +1,8 @@
 #!/usr/bin/python3
-
-"""
-
-Defines a square by: (based on 0-square.py)
-
-"""
-#!/usr/bin/python3
 """
 Defines a square by: (based on 0-square.py)
 """
+
 
 class Square:
     """

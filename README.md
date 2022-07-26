@@ -1,1 +1,1 @@
-ALX new intro to higher programming
+python everything is object
